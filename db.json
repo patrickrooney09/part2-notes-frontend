@@ -24,6 +24,11 @@
       "content": "hi there",
       "important": true,
       "id": 5
+    },
+    {
+      "content": "a new note",
+      "important": false,
+      "id": 6
     }
   ]
 }
